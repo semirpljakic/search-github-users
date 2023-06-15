@@ -1,2 +1,2 @@
 ## Github users
-### Link: https://semir-pljakic-github-users.netlify.app/
+### Link: https://semir-pljakic-search-github-users.netlify.app/
